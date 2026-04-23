@@ -116,7 +116,7 @@ When a user submits a request, the backend sends the text to the Groq API with a
 
 ## How AI Was Used
 
-- **LLM processing:** Groq (LLaMA 3.3 70B) classifies the category, extracts issues, and generates suggested actions from raw stakeholder text in a single API call
+- **LLM processing:** Groq (LLaMA 3.3 70B-Versatile) classifies the category, extracts issues, and generates suggested actions from raw stakeholder text in a single API call
 - **Structured output:** The prompt enforces a strict JSON response format, making the output directly usable without additional transformation
 - **Development:** Claude (Anthropic) was used as a coding assistant to accelerate development throughout the build
 
@@ -134,5 +134,5 @@ When a user submits a request, the backend sends the text to the Groq API with a
 ## Submission Notes
 
 - **Tools used:** React, Vite, Tailwind CSS, Node.js, Express, MongoDB Atlas, Mongoose, Groq API (LLaMA 3.3 70B), Axios
-- **Time spent:** ~3 hours
+- **Time spent:** ~ 4.5 hours
 - **AI in workflow:** Groq/LLaMA for runtime classification and extraction; Claude as development assistant for architecture decisions and code generation

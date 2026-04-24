@@ -136,3 +136,7 @@ When a user submits a request, the backend sends the text to the Groq API with a
 - **Tools used:** React, Vite, Tailwind CSS, Node.js, Express, MongoDB Atlas, Mongoose, Groq API (LLaMA 3.3 70B), Axios
 - **Time spent:** ~ 4.5 hours
 - **AI in workflow:** Groq/LLaMA for runtime classification and extraction; Claude as development assistant for architecture decisions and code generation
+
+## Demo
+
+[Watch the Loom walkthrough](https://share.descript.com/view/e1KreEuMDJw)

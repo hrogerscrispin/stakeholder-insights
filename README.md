@@ -2,9 +2,6 @@
 
 A full-stack prototype that converts unstructured stakeholder requests into structured business insights using AI.
 
-## Live Demo
-
-> Repository: https://github.com/hrogerscrispin/stakeholder-insights
 
 ---
 
